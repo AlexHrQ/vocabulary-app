@@ -1,0 +1,16 @@
+.App {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 16px;
+}
+
+textarea {
+  resize: none;
+  height: 250px;
+}
+
+button {
+  align-self: flex-end;
+}
